@@ -1,0 +1,17 @@
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core\bin\Debug\MvcInfrastructure.Core.dll
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core\bin\Debug\MvcInfrastructure.Core.pdb
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core\bin\Debug\AutoMapper.dll
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core\bin\Debug\Castle.Core.dll
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core\bin\Debug\Castle.DynamicProxy2.dll
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core\bin\Debug\NVelocity.dll
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core\bin\Debug\NVelocity.xml
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core\obj\Debug\MvcInfrastructure.Core.dll
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core\obj\Debug\MvcInfrastructure.Core.pdb

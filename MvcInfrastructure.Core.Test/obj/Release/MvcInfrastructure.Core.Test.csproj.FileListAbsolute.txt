@@ -1,0 +1,11 @@
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core.Test\bin\Release\MvcInfrastructure.Core.Test.dll
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core.Test\bin\Release\MvcInfrastructure.Core.Test.pdb
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core.Test\bin\Release\Moq.dll
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core.Test\bin\Release\xunit.dll
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core.Test\bin\Release\xunit.extensions.dll
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core.Test\bin\Release\xunit.xml
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core.Test\bin\Release\xunit.extensions.xml
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core.Test\bin\Release\Moq.xml
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core.Test\obj\Release\ResolveAssemblyReference.cache
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core.Test\obj\Release\MvcInfrastructure.Core.Test.dll
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Core.Test\obj\Release\MvcInfrastructure.Core.Test.pdb

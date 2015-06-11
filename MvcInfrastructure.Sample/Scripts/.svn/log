@@ -1,0 +1,14 @@
+<modify-entry
+   committed-rev="32512"
+   committed-date="2010-11-19T09:40:40.354000Z"
+   name=""
+   last-author="zhuye"/>
+<delete-changelist
+   name=""/>
+<committed
+   name=""
+   revision="32512"/>
+<modify-wcprop
+   name=""
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/SourceCode/!svn/ver/32512/Aot/Dev/MvcInfrastructure/MvcInfrastructure.Sample/Scripts"/>

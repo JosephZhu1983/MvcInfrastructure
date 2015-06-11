@@ -1,0 +1,5 @@
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Business\bin\Debug\MvcInfrastructure.Sample.Business.dll
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Business\bin\Debug\MvcInfrastructure.Sample.Business.pdb
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Business\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Business\obj\Debug\MvcInfrastructure.Sample.Business.dll
+D:\Dev\Dev\MvcInfrastructure2\MvcInfrastructure.Business\obj\Debug\MvcInfrastructure.Sample.Business.pdb

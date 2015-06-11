@@ -1,0 +1,17 @@
+<rm
+   name=".svn/prop-base/jquery-1.4.1.min.js.svn-revert"/>
+<modify-entry
+   committed-rev="32512"
+   committed-date="2010-11-19T09:40:40.354000Z"
+   name="jquery-1.4.1.min.js"
+   checksum="dea8aae0e4e672074dd02ef7dc873c0f"
+   last-author="zhuye"/>
+<delete-changelist
+   name="jquery-1.4.1.min.js"/>
+<committed
+   name="jquery-1.4.1.min.js"
+   revision="32512"/>
+<modify-wcprop
+   name="jquery-1.4.1.min.js"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/SourceCode/!svn/ver/32512/Aot/Dev/MvcInfrastructure/MvcInfrastructure.Sample/Scripts/jquery-1.4.1.min.js"/>

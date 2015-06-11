@@ -1,0 +1,17 @@
+<rm
+   name=".svn/prop-base/jquery.validate.min-vsdoc.js.svn-revert"/>
+<modify-entry
+   committed-rev="32512"
+   committed-date="2010-11-19T09:40:40.354000Z"
+   name="jquery.validate.min-vsdoc.js"
+   checksum="bad3d4e4a8b8cd5f767c27a1a49cbebc"
+   last-author="zhuye"/>
+<delete-changelist
+   name="jquery.validate.min-vsdoc.js"/>
+<committed
+   name="jquery.validate.min-vsdoc.js"
+   revision="32512"/>
+<modify-wcprop
+   name="jquery.validate.min-vsdoc.js"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/SourceCode/!svn/ver/32512/Aot/Dev/MvcInfrastructure/MvcInfrastructure.Sample/Scripts/jquery.validate.min-vsdoc.js"/>

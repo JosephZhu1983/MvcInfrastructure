@@ -1,0 +1,17 @@
+<rm
+   name=".svn/prop-base/jquery.validate.js.svn-revert"/>
+<modify-entry
+   committed-rev="32512"
+   committed-date="2010-11-19T09:40:40.354000Z"
+   name="jquery.validate.js"
+   checksum="7b05285f565fc6605166a7211dcf2703"
+   last-author="zhuye"/>
+<delete-changelist
+   name="jquery.validate.js"/>
+<committed
+   name="jquery.validate.js"
+   revision="32512"/>
+<modify-wcprop
+   name="jquery.validate.js"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/SourceCode/!svn/ver/32512/Aot/Dev/MvcInfrastructure/MvcInfrastructure.Sample/Scripts/jquery.validate.js"/>

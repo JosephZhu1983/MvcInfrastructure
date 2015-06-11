@@ -1,0 +1,42 @@
+10
+
+dir
+0
+https://007.5173.com/svn/SourceCode/Aot/Dev/MvcInfrastructure3/MvcInfrastructure.Business
+https://007.5173.com/svn/SourceCode
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f9249b22-dbc7-9b42-85a0-1c5ad95e451a
+
+MvcInfrastructure.Sample.Business.csproj
+file
+
+
+
+add
+
+ITestService.cs
+file
+
+
+
+add
+
